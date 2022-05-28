@@ -329,7 +329,7 @@ let handler = async (m, {
 		}
 		text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
 		const pp = await conn.profilePictureUrl(conn.user.jid, 'image').catch(_ => './src/avatar_contact.png')
-		conn.sendHydrated(m.chat, text.trim(), author, pp, 'https://github.com/findme-19', 'Github', null, null, [
+		conn.sendHydrated(m.chat, text.trim(), author, pp, 'https://lynk.id/nagatoro', 'Web', null, null, [
 			['Donate', '/donasi'],
 			['Speed', '/ping'],
 			['Owner', '/owner']
