@@ -8,14 +8,14 @@ import {
 } from 'url'
 
 global.owner = [
-	//  ['6281234288573'],
-	['436508448617777'],
-	['6282331033919'],
-	['62895368900456', 'Benniismail?', true]
+	//  ['6285859047172'],
+	['6285859047172'],
+	['6285859047172'],
+	['6285859047172', 'Senpai', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = [6285859047172] // Want some help?
+global.prems = [6285859047172] // Premium user has unlimited limit
 global.APIs = { // API Prefix
 	// name: 'https://website'
 	nrtm: 'https://nurutomo.herokuapp.com',
@@ -36,9 +36,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'ig : Beni_230\'Benniismael'
-global.author = 'BOT BY BENNIISMAEL & ghost'
-global.nomorown = '6282331033919'
+global.packname = 'NagatoroBot'
+global.author = 'BOT BY NAOTO HACHIOJI'
+global.nomorown = '6285859047172'
 global.multiplier = 69 // The higher, The harder levelup
 
 global.rpg = {
