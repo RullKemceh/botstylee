@@ -11,8 +11,8 @@ const defaultMenu = {
 ╭─「 %me 🤖」
 │ 👋🏻 Hai, %name!
 │
-│ 🧱 Limit : *%limit Limit*
-│ 🦸🏼‍♂️ Role : *%role*
+│ 🌟 Limit : *%limit Limit*
+│ ☁️ Role : *%role*
 │ 🔼 Level : *%level (%exp / %maxexp)*
 │ 💫 Total XP : %totalexp ✨
 │ 
