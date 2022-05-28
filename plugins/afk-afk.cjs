@@ -10,4 +10,4 @@ handler.help = ['afk [alasan]']
 handler.tags = ['main']
 handler.command = /^afk$/i
 
-export default handler
+module.exports = handler
